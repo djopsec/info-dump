@@ -1,4 +1,4 @@
-# Glossary for Core Structures
+# Glossary for Programming Core Structures
 
 ## A
 
