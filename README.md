@@ -22,7 +22,7 @@ To make a new glossary, this is a prompt to use:
 
 ## 🗂 Topics Covered Include
 
-- Programming Basics  
-- Core Programming Structures  
-- Key Programming Approaches
-- Networking Basics
+- Programing Foundations:
+  - Programming Basics  
+  - Core Programming Structures  
+  - Key Programming Approaches
