@@ -26,3 +26,5 @@ To make a new glossary, this is a prompt to use:
   - Programming Basics  
   - Core Programming Structures  
   - Key Programming Approaches
+- Artificial Intelligence (AI)
+  - Security & Governance 
